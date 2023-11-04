@@ -1,0 +1,1 @@
+<?php return [1=>'#a378bc',2=>'#E6FAD8',3=>'#E6FAD8',4=>'#E6FAD8'];

@@ -1,0 +1,17 @@
+{
+	"php": {
+		"Cars": "Samochody",
+		"SINGLE_Cars": "Samochody",
+		"LBL_CUSTOM_INFORMATION": "Custom Information",
+		"LBL_BASIC_INFORMATION": "Basic Information",
+		"Nazwa samochodu": "Nazwa samochodu",
+        "LBL_CALCULATE": "Oblicz",
+        "CALCULATE_OPERATING_COST": "Oblicz koszty eksploatacji",
+        "OPERATING_COST_CALCULATED": "Koszty eksploatacji zostały obliczone",
+        "LBL_OPERATING_COST": "Koszt eksploatacji",
+        "OPERATING_COST": "Kalkulator kosztu eksploatacji",
+        "LBL_FROM": "Data początku eksploatacji",
+        "LBL_TO": "Data końca eksploatacji",
+        "ERR_DATE_INVALID": "Niepoprawny format daty"
+	}
+}
